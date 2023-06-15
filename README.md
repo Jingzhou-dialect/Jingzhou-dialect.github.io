@@ -1,23 +1,25 @@
 # 荆州方言 (Jingzhou Dialect) 
 荆州方言知多少？[https://0716.co](https://0716.co)
 
+![Jingzhou dialect logo](https://jingzhou-dialect.github.io/Jingzhou-dialect-logo.png)
+
 Do you know the Jingzhou dialect?
 
 2023.6.15 
 
 荆州话中的“竹笋”，听起来有点像广东话中早上好的“早晨”。
+[Jingzhou dialect “竹笋”](https://jingzhou-dialect.github.io/Jingzhou-dialect-8.png)
 
 2023.6.13
 
 荆州方言中“搕(kē)”意为拿，我的印象中好像没听过“搕来”，依旧说的“拿来”。
+[Jingzhou dialect "搕(kē)起"](https://jingzhou-dialect.github.io/Jingzhou-dialect-6.png)
 
 2023.6.10
 
-荆州方言中“去”的发音有点奇怪，为“克日”连读。
+荆州方言中“去”的发音有点奇怪，为“克日”连读。《三国演义》第十四回：“操接诏，克日兴师。”
 
-《三国演义》第十四回：“操接诏，克日兴师。”
-
-![Jingzhou dialect qu](https://jingzhou-dialect.github.io/Jingzhou-dialect-3.png)
+[Jingzhou dialect qu](https://jingzhou-dialect.github.io/Jingzhou-dialect-3.png)
 
 # Who am? 😘
 A young man.
