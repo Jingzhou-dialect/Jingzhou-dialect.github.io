@@ -22,7 +22,7 @@ Do you know the Jingzhou dialect?
 
 2023.6.7
 
-荆州方言中“伢(á)子”意为孩子。马英九几度哽咽！“湘潭伢子回来了！”
+荆州方言中“伢(á)子”意为孩子。马英九清明回乡祭祖几度哽咽，说道：“湘潭伢子回来了！”
 [Jingzhou dialect “伢(á)”](https://jingzhou-dialect.github.io/Jingzhou-dialect-1.png)
 
 # Who am? 😘
