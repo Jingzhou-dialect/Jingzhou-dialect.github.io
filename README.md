@@ -20,6 +20,11 @@ Do you know the Jingzhou dialect?
 荆州方言中“去”的发音有点奇怪，为“克日”连读。《三国演义》第十四回：“操接诏，克日兴师。”
 [Jingzhou dialect “去”](https://jingzhou-dialect.github.io/Jingzhou-dialect-3.png)
 
+2023.6.7
+
+荆州方言中“伢(á)子”意为孩子。马英九几度哽咽！“湘潭伢子回来了！”
+[Jingzhou dialect “伢(á)”](https://jingzhou-dialect.github.io/Jingzhou-dialect-1.png)
+
 # Who am? 😘
 A young man.
 
