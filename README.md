@@ -5,6 +5,10 @@
 
 Do you know the Jingzhou dialect?
 
+2023.6.17
+#荆州方言 荆州话中的“硙(ái)头”意为石头。韩维《陪晏相公游韩王水硙园》“不知物外清闲境，只在韩王水硙头。” 如译为“水石”，借指清丽胜景，意境都升华了。
+[Jingzhou dialect “硙(ái)头”](https://jingzhou-dialect.github.io/Jingzhou-dialect-11.png)
+
 2023.6.15 
 
 荆州话中的“竹笋”，听起来有点像广东话中早上好的“早晨”。
