@@ -3,7 +3,7 @@
 
 ![Jingzhou dialect logo](https://jingzhou-dialect.github.io/Jingzhou-dialect-logo.png)
 
-Do you know the Jingzhou dialect?
+## Do you know the Jingzhou dialect?
 
 2023.6.17
 #荆州方言 荆州话中的“硙(ái)头”意为石头。韩维《陪晏相公游韩王水硙园》“不知物外清闲境，只在韩王水硙头。” “水硙”如译为“水石”，借指清丽胜景，意境都升华了。
@@ -29,29 +29,28 @@ Do you know the Jingzhou dialect?
 荆州方言中“伢(á)子”意为孩子。马英九清明回乡祭祖几度哽咽，说道：“湘潭伢子回来了！”
 [Jingzhou dialect “伢(á)”](https://jingzhou-dialect.github.io/Jingzhou-dialect-1.png)
 
-# Who am? 😘
+### Who am? 😘
 A young man.
 
-# Where from? 😎‍
+### Where from? 😎‍
 We come from China.
 
-# Where to go? 😜
+### Where to go? 😜
 Take you to understand Chinese culture and understand Jingzhou dialect. Welcome to join us.
 
-# license 😚‍
+### license 😚‍
 CC-BY-SA-4.0
 
-
-# 我是谁？😘
+### 我是谁？😘
 一个年青人。
 
-# 来自哪里？😎‍
+### 来自哪里？😎‍
 我们来自中国。
 
-# 到哪里去？😜
+### 到哪里去？😜
 带你了解中国文化，了解荆州话。欢迎加入我们。
 
-# 授权 😚‍
+### 授权 😚‍
 CC-BY-SA-4.0
 
 
